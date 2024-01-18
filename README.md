@@ -24,4 +24,6 @@ This repository contains the source code for the Financial Wallet Challenge App,
 
 ### Prerequisites
 
-- Node.js installed on your machine
+- Node.js
+- Expo
+- iOS/Android Emulator
